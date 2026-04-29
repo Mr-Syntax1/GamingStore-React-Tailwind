@@ -124,4 +124,4 @@ Visit http://localhost:5173
 
 Made with ❤️ by [Mr-Syntax1]
 
-</div> ```
+</div>
