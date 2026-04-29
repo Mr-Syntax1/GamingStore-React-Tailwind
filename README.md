@@ -59,32 +59,39 @@
 ---
 
 ## 📁 Project Structure
+
+```bash
 sam-shop/
 ├── src/
-│ ├── components/
-│ │ ├── Navbar.jsx # Navigation bar with theme toggle
-│ │ ├── Footer.jsx # Footer with links & info
-│ │ ├── Hero.jsx # Hero section
-│ │ ├── Category.jsx # Category list
-│ │ ├── ProductCard.jsx # Product card component
-│ │ ├── SpecialProducts.jsx # Featured products section
-│ │ └── ThemeToggle.jsx # Dark/light mode button
-│ ├── pages/
-│ │ ├── HomePage.jsx # Home page
-│ │ ├── ShopPage.jsx # Shop page with filters
-│ │ ├── AboutPage.jsx # About page
-│ │ ├── BlogPage.jsx # Blog page
-│ │ ├── ContactPage.jsx # Contact page with form
-│ │ ├── CartPage.jsx # Shopping cart page
-│ │ ├── ProductDetailPage.jsx # Product details
-│ │ └── NotFoundPage.jsx # 404 page
-│ ├── context/
-│ │ └── ThemeContext.jsx # Theme management
-│ ├── data/
-│ │ └── products.js # Products and categories data
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── index.css
+│   ├── components/
+│   │   ├── Navbar.jsx          # Navigation bar with theme toggle
+│   │   ├── Footer.jsx          # Footer with links & info
+│   │   ├── Hero.jsx            # Hero section
+│   │   ├── Category.jsx        # Category list
+│   │   ├── ProductCard.jsx     # Product card component
+│   │   ├── SpecialProducts.jsx # Featured products section
+│   │   └── ThemeToggle.jsx     # Dark/light mode button
+│   ├── pages/
+│   │   ├── HomePage.jsx        # Home page
+│   │   ├── ShopPage.jsx        # Shop page with filters
+│   │   ├── AboutPage.jsx       # About page
+│   │   ├── BlogPage.jsx        # Blog page
+│   │   ├── ContactPage.jsx     # Contact page with form
+│   │   ├── CartPage.jsx        # Shopping cart page
+│   │   ├── ProductDetailPage.jsx # Product details
+│   │   └── NotFoundPage.jsx    # 404 page
+│   ├── context/
+│   │   └── ThemeContext.jsx    # Theme management
+│   ├── data/
+│   │   └── products.js         # Products and categories data
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+```
 
 ---
 
