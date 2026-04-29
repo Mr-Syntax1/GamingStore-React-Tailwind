@@ -3,7 +3,7 @@
 # 🎮 Sam Shop - Modern E-commerce Website
 
 ![React](https://img.shields.io/badge/React-19.0.0-61dafb?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0.0-38bdf8?style=for-the-badge&logo=tailwindcss)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4.19-38bdf8?style=for-the-badge&logo=tailwindcss)
 ![React Router](https://img.shields.io/badge/React_Router-7.0.0-ca4245?style=for-the-badge&logo=reactrouter)
 ![Vite](https://img.shields.io/badge/Vite-6.0.0-646cff?style=for-the-badge&logo=vite)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-7.54.0-ec5990?style=for-the-badge&logo=reacthookform)
