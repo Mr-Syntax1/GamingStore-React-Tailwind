@@ -85,10 +85,6 @@ sam-shop/
 │ ├── App.jsx
 │ ├── main.jsx
 │ └── index.css
-├── index.html
-├── package.json
-├── vite.config.js
-└── README.md
 
 ---
 
