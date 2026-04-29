@@ -59,7 +59,7 @@
 ---
 
 ## 📁 Project Structure
-
+sam-shop/
 ├── src/
 │ ├── components/
 │ │ ├── Navbar.jsx # Navigation bar with theme toggle
