@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 🎮 Sam Shop - Modern E-commerce Persian Website
@@ -9,6 +10,10 @@
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-7.54.0-ec5990?style=for-the-badge&logo=reacthookform)
 
 </div>
+
+---
+
+<img width="1891" height="890" alt="Screenshot 2026-04-30 203804" src="https://github.com/user-attachments/assets/18c7f113-5c60-489f-82f8-bc05ca219483" />
 
 ---
 
