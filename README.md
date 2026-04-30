@@ -100,8 +100,8 @@ sam-shop/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/sam-shop.git
-cd sam-shop
+git clone https://github.com/Mr-Syntax1/GamingStore-React-Tailwind.git
+cd GamingStore-React-Tailwind
 ```
 2. **Install dependencies**
 
