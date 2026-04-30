@@ -31,6 +31,30 @@
 
 ---
 
+## 🛠️ Installation
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/Mr-Syntax1/GamingStore-React-Tailwind.git
+cd GamingStore-React-Tailwind
+```
+2. **Install dependencies**
+
+```bash
+npm install
+```
+3. **Run the development server**
+
+```bash
+npm run dev
+```
+Open your browser
+
+Visit http://localhost:5173
+
+---
+
 ## 🗺️ Pages & Routes
 
 | Route | Page | Description |
@@ -95,29 +119,6 @@ sam-shop/
 
 ---
 
-## 🛠️ Installation
-
-1. **Clone the repository**
-
-```bash
-git clone https://github.com/Mr-Syntax1/GamingStore-React-Tailwind.git
-cd GamingStore-React-Tailwind
-```
-2. **Install dependencies**
-
-```bash
-npm install
-```
-3. **Run the development server**
-
-```bash
-npm run dev
-```
-Open your browser
-
-Visit http://localhost:5173
-
----
 
 <div align="center">
 ⭐ Don't forget to star this repository if you found it helpful! ⭐
