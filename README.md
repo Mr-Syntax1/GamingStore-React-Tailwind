@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎮 Sam Shop - Modern E-commerce Website
+# 🎮 Sam Shop - Modern E-commerce Persian Website
 
 ![React](https://img.shields.io/badge/React-19.0.0-61dafb?style=for-the-badge&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4.19-38bdf8?style=for-the-badge&logo=tailwindcss)
