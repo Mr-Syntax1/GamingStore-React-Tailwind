@@ -19,7 +19,7 @@
 
 ## 📖 About The Project
 
-**Sam Shop** is a modern, fully-featured e-commerce website built with **React** and **Tailwind CSS**. This project includes all the essential features of a real online store including shopping cart, product pages, contact form, dark/light mode, and more.
+**Sam Shop** is a modern, fully-featured persian e-commerce website built with **React** and **Tailwind CSS**. This project includes all the essential features of a real online store including shopping cart, product pages, contact form, dark/light mode, and more.
 
 ### ✨ Key Features
 
