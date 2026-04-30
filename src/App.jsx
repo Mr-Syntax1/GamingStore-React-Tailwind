@@ -79,7 +79,7 @@ function App() {
   const cartItemCount = cart.reduce((sum, item) => sum + item.quantity, 0)
 
   return (
-    <BrowserRouter basename="/GamingStore-React-Tailwind">
+    <BrowserRouter>
       <ScrollToTop />
       <div dir='rtl'>
         <Navbar cartItemCount={cartItemCount} />
